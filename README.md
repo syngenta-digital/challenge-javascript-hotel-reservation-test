@@ -1,6 +1,6 @@
 Nearly empty javascript project with a failing test!
 ===
-**DO NOT change the function's name (getCheaperHotel), changing it implies in disqualification.** 
+**DO NOT change the function's name (getCheapestHotel), changing it implies in disqualification.** 
 
 To install the required modules:
 
@@ -13,4 +13,4 @@ To run the (failing) test:
 ```
 $ yarn test
 ```
-**DO NOT change the function's name (get_cheaper_hotel), changing it implies in disqualification.** 
+**After implementing your solution, it should pass the unit tests available.** 

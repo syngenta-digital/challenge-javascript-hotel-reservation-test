@@ -1,5 +1,5 @@
-function getCheaperHotel (input) { //DO NOT change the function's name.
-    return "Cheaper hotel name"
+function getCheapestHotel (input) { //DO NOT change the function's name.
+    return "Cheapest hotel name"
 }
 
-exports.getCheaperHotel = getCheaperHotel
+exports.getCheapestHotel = getCheapestHotel
