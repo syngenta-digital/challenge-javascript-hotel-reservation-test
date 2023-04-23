@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "chai": "^4.1.2",
-    "mocha": "^4.0.1"
+    "mocha": "^10.2.0"
   },
   "main": "index.js",
   "directories": {
